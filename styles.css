@@ -15,6 +15,7 @@ body {
 
 .content {
   max-width: 1200px;
+  border-bottom: 1px solid var(--dark);
 }
 
 .infobox {
@@ -88,3 +89,7 @@ body {
 .half-width {
   width: 50%;
 } 
+
+.full-width {
+  width: 100%;
+}
